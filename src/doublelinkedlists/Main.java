@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package doublelistnode;
+package doublelinkedlists;
 
 import data.*;
 
@@ -12,7 +12,7 @@ import data.*;
  * @author SONPH
  * @param <E>
  */
-public class DoubleListNode<E> {
+public class Main<E> {
 
     /**
      * @param args the command line arguments
